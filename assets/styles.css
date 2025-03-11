@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: 'Marcellus-Regular';
-  src: url(/assets/Marcellus-Regular.woff);
+  src: url('Marcellus-Regular.woff') format('woff');
 }
 
 
